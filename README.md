@@ -1,7 +1,7 @@
 # IntelligentSystems
 Lecture and Lab exercise
 
-## Contain
+## Content
 ### Lab 1 Setup Jupyter Notebook and Practice Python basics
   1. Lecture
   2. Exercise
