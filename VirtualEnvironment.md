@@ -86,3 +86,4 @@ Ref : https://medium.com/@krishnaregmi/pipenv-vs-virtualenv-vs-conda-environment
 
 
 ### Docker contain the Jupyter notebooks
+https://u.group/thinking/how-to-put-jupyter-notebooks-in-a-dockerfile/
