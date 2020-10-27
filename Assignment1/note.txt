@@ -1,0 +1,6 @@
+Handle the k-NN exercise on diabetes (see the Lab section).
+
+Submit your result as a notebook file.
+
+https://viblo.asia/p/ung-dung-thuat-toan-naive-bayes-trong-giai-quyet-bai-toan-chuan-doan-benh-tieu-duong-eW65GYejZDO
+https://algorithmia.com/blog/evaluating-machine-learning-models-with-a-confusion-matrix
